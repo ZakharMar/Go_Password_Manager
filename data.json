@@ -1,0 +1,26 @@
+{
+    "accounts": [
+        {
+            "createdAt": "2024-10-25T23:49:00.158366+07:00",
+            "login": "a",
+            "password": "iUaBIFX!8Gmu",
+            "updatedAt": "2024-10-25T23:49:00.158367+07:00",
+            "url": "https://frfr"
+        },
+        {
+            "createdAt": "2024-10-25T23:50:25.373375+07:00",
+            "login": "b@b",
+            "password": "RPhE3TPrGldR",
+            "updatedAt": "2024-10-25T23:50:25.373376+07:00",
+            "url": "https:rvr"
+        },
+        {
+            "createdAt": "2024-10-27T00:14:26.101473+07:00",
+            "login": "Zakhar",
+            "password": "kNqc!eXzLcdw",
+            "updatedAt": "2024-10-27T00:14:26.101474+07:00",
+            "url": "http:fefe"
+        }
+    ],
+    "updatedAt": "2024-10-27T00:14:26.101492+07:00"
+}
